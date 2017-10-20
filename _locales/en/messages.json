@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The app description",
+      "message": "On YouTube Player page, in address bar is adding icon. Click it and open new Tab with maxresdefault.jpg"
+   },
+   "appName": {
+      "description": "The app name",
+      "message": "Show YouTube maxresdefault Thumbnail"
+   }
+}

@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "default_locale": "en",
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDescription__",
+  "homepage_url": "https://github.com/rty65tt/yt-open-thumb",
+
+  "icons": {
+    "16": "icons/16.svg"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs"
+],
+    "background": {
+    "scripts": ["main.js"]
+},
+  "page_action": {
+    "browser_style": true,
+  
+    "default_icon": {
+      "16": "icons/16.svg"
+    },
+    "default_title": "Show maxresdefault Thumbnail"
+  }
+
+}

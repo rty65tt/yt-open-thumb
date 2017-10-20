@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The app description",
+      "message": "На странице YouTube, в адресной строке добавляется значок. Нажмите и откроется новая вкладка с maxresdefault.jpg"
+   },
+   "appName": {
+      "description": "The app name",
+      "message": "Показать превью к видео с YouTube (maxresdefault.jpg)"
+   }
+}
