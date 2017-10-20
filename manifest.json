@@ -3,6 +3,7 @@
   "version": "1.0",
   "default_locale": "en",
   "name": "__MSG_appName__",
+  "short_name": "youtubemaxresthumb",
   "description": "__MSG_appDescription__",
   "homepage_url": "https://github.com/rty65tt/yt-open-thumb",
 
