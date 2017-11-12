@@ -10,7 +10,6 @@ function openthumb() {
    });
 }
 
-
 function checkurl() {
 
     var gettingActiveTab = browser.tabs.query({active: true, currentWindow: true});
@@ -27,10 +26,11 @@ function checkurl() {
     });
 }
 
+
+
 browser.tabs.onCreated.addListener(checkurl);
 browser.tabs.onActivated.addListener(checkurl);
 browser.tabs.onUpdated.addListener(checkurl);
 
 browser.pageAction.onClicked.addListener(openthumb);
-
 
